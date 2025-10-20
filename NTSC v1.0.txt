@@ -9,7 +9,6 @@ Set TexS 160x160
 Exp RGBA32 1795300 gTitleZeldaShieldLogoMQTex
 Dir textures/nes_font_static
 Set TexS 16x16
-Exp I4 D28B gMsgChar20SpaceTex
 Exp I4 928080 gMsgChar21ExclamationMarkTex
 Exp I4 928100 gMsgChar22QuotationMarkTex
 Exp I4 928180 gMsgChar23NumberSignTex
@@ -104,7 +103,6 @@ Exp I4 92AD80 gMsgChar7BLeftCurlyBracketTex
 Exp I4 92AE00 gMsgChar7CVerticalLineTex
 Exp I4 92AE80 gMsgChar7DRightCurlyBracketTex
 Exp I4 92AF00 gMsgChar7ETildeTex
-Exp I4 D28B gMsgChar7FBlankTex
 Exp I4 92B000 gMsgChar80LatinCapitalLetterAWithGraveTex
 Exp I4 92B100 gMsgChar82LatinCapitalLetterAWithCircumflexTex
 Exp I4 92B180 gMsgChar83LatinCapitalLetterAWithDiaeresisTex
