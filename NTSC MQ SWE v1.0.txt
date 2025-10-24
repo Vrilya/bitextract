@@ -514,16 +514,16 @@ Dir textures/object_fd
 Exp IA8 13C4B00 gVolvagiaBossTitleCardENGTex
 Dir overlays/ovl_End_Title
 Set TexS 112x16
-Exp IA8 EB3950 sOcarinaOfTimeTex
+Exp IA8 EB39E0 sOcarinaOfTimeTex
 Set TexS 80x24
-Exp IA8 EB4050 sTheEndTex
+Exp IA8 EB40E0 sTheEndTex
 Set TexS 96x16
-Exp IA8 EB5FD0 sPresentedByTex
+Exp IA8 EB6060 sPresentedByTex
 Set TexS 64x48
-Exp IA8 EB47D0 sNintendoLeftTex
-Exp IA8 EB53D0 sNintendoRightTex
+Exp IA8 EB4860 sNintendoLeftTex
+Exp IA8 EB5460 sNintendoRightTex
 Set TexS 120x24
-Exp IA8 EB2E10 sTheLegendOfZeldaTex
+Exp IA8 EB2EA0 sTheLegendOfZeldaTex
 Dir textures/icon_item_dungeon_static
 Set TexS 24x16
 Exp IA8 85D180 gDungeonMap1FButtonTex
